@@ -22,7 +22,7 @@ Contributions are always welcome!
 
 ## Medium attachments
 For code explaination visit blog links.
-- [Ultimate guide on form validation with formz - Part 1 ]()
+- [Ultimate guide on form validation with formz - Part 1 ](https://medium.com/@avniprajapati21101/ultimate-guide-on-form-validation-using-formz-in-flutter-part-1-5a938385b509)
 - [Ultimate guide on form validation with formz - Part 2 ]()
 
 ## Demo
