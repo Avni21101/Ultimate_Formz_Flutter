@@ -1,4 +1,4 @@
-# Ultimate guide on form validation using Formz in Flutter
+# Form validation using Formz in Flutter
 
 ![banner.jpg](https://github.com/Avni21101/Ultimate_Formz_Flutter/blob/main/reademe_images/banner.jpg)
 
