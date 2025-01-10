@@ -1,6 +1,6 @@
 # Ultimate guide on form validation using Formz in Flutter
 
-![banner.jpg]()
+![banner.jpg](https://github.com/Avni21101/Ultimate_Formz_Flutter/blob/main/reademe_images/banner.jpg)
 
 ## OverView
 - This project demonstrates input field validation using Formz and Bloc.
